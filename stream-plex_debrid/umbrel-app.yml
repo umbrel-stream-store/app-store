@@ -3,7 +3,7 @@ id: stream-plex_debrid
 name: plex_debrid
 tagline: Plex/Emby/Jellyfin/Infuse torrent streaming through Debrid Services, using Plex Discover Watchlists, Trakt lists and Overseerr.
 icon: https://raw.githubusercontent.com/umbrel-stream-store/app-store/master/stream-plex_debrid/icon.png
-category: media
+category: Media
 version: "1.0.0"
 description: >-
   plex_debrid provides an easy way to add media content to your debrid service/s, which becomes instantly watchable when mounting your debrid service with a personal media server like plex/emby/jellyfin/infuse. The plex watchlists, trakt watchlists and overseer-requests of specified users are constantly checked for newly added movies/shows and newly released episodes of watchlisted shows. Once new content is found, torrent indexers are scraped for the best, cached release on selected debrid services. The torrent is then added to a suitable debrid service and a library refresh is performed to make the newly added content available.
@@ -12,7 +12,6 @@ repo: https://github.com/itsToggle/plex_debrid
 support: https://github.com/itsToggle/plex_debrid/issues
 gallery:
   - https://user-images.githubusercontent.com/71379623/185643627-45217303-75d8-4c9d-8c8b-41bb2e27fd87.gif
-releaseNotes: >-
 dependencies: []
 path: ""
 defaultUsername: ""
