@@ -1,0 +1,18 @@
+version: "3"
+
+services:
+  threadfin:
+    image: fyb3roptik/threadfin:latest
+    container_name: threadfin
+    restart: unless-stopped
+    volumes:
+      - ./tmp:/tmp/threadfin
+      - ./conf:/home/threadfin/conf
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - THREADFIN_BRANCH=main
+      - THREADFIN_DEBUG=1
+      - THREADFIN_PORT=34400
+    ports:
+      - 34400:34400
