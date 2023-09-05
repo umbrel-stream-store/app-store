@@ -13,8 +13,14 @@ description: >-
 
   Threadfin (Linux) x86 64 bit ffmpeg Support Runs as unprivileged user
 developer: fyb3roptik
+website: https://github.com/Threadfin/Threadfin
+submitter: Stream App Store
+submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/Threadfin/Threadfin
 support: https://github.com/Threadfin/Threadfin/issues
+gallery:
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
 dependencies: []
 path: ""
 defaultUsername: ""
