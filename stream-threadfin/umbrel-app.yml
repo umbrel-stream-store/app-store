@@ -1,29 +1,28 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: stream-threadfin
+name: Threadfin
+tagline: M3U Proxy for Plex DVR and Emby/Jellyfin Live TV
 icon: https://svgur.com/i/mvA.svg
-category: Development
+category: media
 version: "1.0.0"
-port: 4000
+port: 34400
 description: >-
-  Add your app's description here.
+  Threadfin is a M3U proxy server for Plex, Emby, Jellyfin and any client and provider which supports the .TS and .M3U8 (HLS) streaming formats.
 
+  Threadfin emulates a SiliconDust HDHomeRun OTA tuner, which allows it to expose IPTV style channels to software, which would not normally support it. This Docker image includes the following packages and features:
 
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+  Threadfin (Linux) x86 64 bit ffmpeg Support Runs as unprivileged user
+developer: fyb3roptik
+website: https://github.com/Threadfin/Threadfin
+submitter: Umbrel Stream Store
+submission: https://github.com/umbrel-stream-store/app-store/tree/master/stream-threadfin
+repo: https://github.com/Threadfin/Threadfin
+support: https://github.com/Threadfin/Threadfin/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
 dependencies: []
 path: ""
 defaultUsername: ""
