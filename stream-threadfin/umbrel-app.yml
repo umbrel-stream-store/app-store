@@ -2,7 +2,7 @@ manifestVersion: 1
 id: stream-threadfin
 name: Threadfin
 tagline: M3U Proxy for Plex DVR and Emby/Jellyfin Live TV
-icon: https://svgur.com/i/mvA.svg
+icon: https://raw.githubusercontent.com/umbrel-stream-store/app-store/master/stream-threadfin/icon.jpeg
 category: media
 version: "1.0.0"
 port: 34400
@@ -13,9 +13,7 @@ description: >-
 
   Threadfin (Linux) x86 64 bit ffmpeg Support Runs as unprivileged user
 developer: fyb3roptik
-website: https://github.com/Threadfin/Threadfin
 submitter: Umbrel Stream Store
-submission: https://github.com/umbrel-stream-store/app-store/tree/master/stream-threadfin
 repo: https://github.com/Threadfin/Threadfin
 support: https://github.com/Threadfin/Threadfin/issues
 gallery:
