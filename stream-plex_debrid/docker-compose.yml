@@ -1,0 +1,12 @@
+  plex_debrid:
+    image: itstoggle/plex_debrid:latest
+    container_name: plex_debrid
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Los_Angeles
+    volumes:
+      - $DOCKERDIR/appdata/plex_debrid/config:/config
+    stdin_open: true
+    tty: true
+    restart: always
