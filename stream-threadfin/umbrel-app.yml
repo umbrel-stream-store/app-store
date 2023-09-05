@@ -1,7 +1,7 @@
 manifestVersion: 1
-id: stream-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
+id: stream-threadfin
+name: Threadfin
+tagline: M3U Proxy for Plex DVR and Emby/Jellyfin Live TV. Based on xTeVe.
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
