@@ -13,7 +13,6 @@ description: >-
 
   Threadfin (Linux) x86 64 bit ffmpeg Support Runs as unprivileged user
 developer: fyb3roptik
-submitter: Umbrel Stream Store
 repo: https://github.com/Threadfin/Threadfin
 support: https://github.com/Threadfin/Threadfin/issues
 releaseNotes: >-
