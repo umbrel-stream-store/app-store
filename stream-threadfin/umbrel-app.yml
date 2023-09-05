@@ -2,7 +2,7 @@ manifestVersion: 1
 id: stream-threadfin
 name: Threadfin
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+icon: https://raw.githubusercontent.com/umbrel-stream-store/app-store/master/stream-threadfin/icon.jpeg
 category: Media
 version: "1.0.0"
 port: 3400
