@@ -2,10 +2,10 @@ manifestVersion: 1
 id: stream-threadfin
 name: Threadfin
 tagline: M3U Proxy for Plex DVR and Emby/Jellyfin Live TV. Based on xTeVe.
-icon: https://svgur.com/i/mvA.svg
+icon: https://raw.githubusercontent.com/umbrel-stream-store/app-store/master/stream-threadfin/icon.jpeg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 3400
 description: >-
   Add your app's description here.
 
