@@ -12,6 +12,7 @@ repo: https://github.com/itsToggle/plex_debrid
 support: https://github.com/itsToggle/plex_debrid/issues
 gallery:
   - https://user-images.githubusercontent.com/71379623/185643627-45217303-75d8-4c9d-8c8b-41bb2e27fd87.gif
+releaseNotes: >-
 dependencies: []
 path: ""
 defaultUsername: ""
